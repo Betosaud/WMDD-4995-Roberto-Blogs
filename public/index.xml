@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry Topics II - Blogs - Roberto Filho</title>
+    <link>https://betosaud.000webhostapp.com/</link>
+    <description>Recent content on Industry Topics II - Blogs - Roberto Filho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Oct 2017 11:12:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://betosaud.000webhostapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WEBSITES AS A SERVICE</title>
+      <link>https://betosaud.000webhostapp.com/post/post1/</link>
+      <pubDate>Tue, 03 Oct 2017 11:12:56 -0700</pubDate>
+      
+      <guid>https://betosaud.000webhostapp.com/post/post1/</guid>
+      <description>The ‘as a service’ movement didn’t meet websites for a long time. It all started with software&amp;hellip; Your website, by subcription In many ways websites are similar to software – which is why we’ve chosen to offer them as a service. The standard way of going about things as a web professional is to design and build a website for a client, deploy it on a host, send them an invoice and move on to your next project.</description>
+    </item>
+    
+  </channel>
+</rss>
