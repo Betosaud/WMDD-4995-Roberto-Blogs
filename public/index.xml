@@ -6,10 +6,19 @@
     <description>Recent content on Industry Topics II - Blogs - Roberto Filho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2017 11:12:56 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 11:12:56 -0700</lastBuildDate>
     
 	<atom:link href="https://betosaud.000webhostapp.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mobile First</title>
+      <link>https://betosaud.000webhostapp.com/post/post2/</link>
+      <pubDate>Mon, 16 Oct 2017 11:12:56 -0700</pubDate>
+      
+      <guid>https://betosaud.000webhostapp.com/post/post2/</guid>
+      <description>What is it anyway? Mobile first is a concept, a break in patterns, vices, and paradigms that have been acquired over the years. It&amp;rsquo;s a strategy and a different way of looking at content that really matters on a website. Mobile devices are becoming more sophisticated and present in our lives. Even so, they often do not receive due importance during the process of creating and developing our sites. It was in this search for optimization that the mobile first was born: the focus on the user experience in mobile devices.</description>
+    </item>
     
     <item>
       <title>Should designers know how to code?</title>
