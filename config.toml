@@ -46,11 +46,9 @@ disqusShortname = ""
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "mono-social"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = "circle"
+    socialIconStyle = "rounded"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "#"
-    facebook = "#"
     github   = "https://github.com/Betosaud/WMDD-4995-Roberto-Blogs"
-    dribble  = "#"
+  
